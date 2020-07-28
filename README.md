@@ -1,2 +1,1 @@
-# burger
-Eat-Da-Burger
+A program where you eat a burger.

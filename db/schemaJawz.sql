@@ -1,4 +1,5 @@
-USE burgers_db;
+
+USE eygnwwmhb7q9p28a;
 
 CREATE TABLE burgers
 (
